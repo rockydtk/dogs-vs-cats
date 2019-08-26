@@ -28,3 +28,9 @@ Total params: 3,267,778
 Trainable params: 3,267,778
 
 Non-trainable params: 0
+
+### Conclusion:
+
+
+
+Since github limited our upload to 25MB so we use gdrive https://drive.google.com/open?id=1GV8mTcwxDlx7qORq-vQEmNTNuVNo_LC9
