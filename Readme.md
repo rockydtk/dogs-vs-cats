@@ -24,5 +24,7 @@ We are dealing with a train dataset of 25,000 images of dogs and cat. Luckily th
 | dense_1 (Dense)               | (None, 2)            | 130     |
 
 Total params: 3,267,778
+
 Trainable params: 3,267,778
+
 Non-trainable params: 0
