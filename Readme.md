@@ -1,12 +1,12 @@
 # Cats And Dogs Classifier | Convolutional Neural Network with Python and Tensorflow 
 
-Author: Rocky & Sandy
+### Author: Rocky & Sandy
 
-Contact: rockydtk@gmail.com & maithrisanthosh@gmail.com
+### Contact: rockydtk@gmail.com & maithrisanthosh@gmail.com
 
 Convolutional Neural Networks are often called ConvNets, which is kind of Neural Network Architecture that are mostly used in Image Classification and ConvNets are very popular when it comes to processin Images. CNN was inspired by the Human Visual Cortex, So now we will use this method and apply to classifying cats and dogs.
 
-![](model_explain.gif)
+![](tensorflow-1.gif)
 
 ### Exploratory Data Analysis:
 We are dealing with a train dataset of 25,000 images of dogs and cat. Luckily their names come with a pattern which has already classified them as dog or cat. Therefore, we used simple string slicing to generate label column for the dataset.  
