@@ -1,5 +1,7 @@
 Author: Rocky & Sandy
+
 Contact: rockydtk@gmail.com & 
+
 Convolutional Neural Networks are often called ConvNets, which is kind of Neural Network Architecture that are mostly used in Image Classification and ConvNets are very popular when it comes to processin Images. CNN was inspired by the Human Visual Cortex, So now we will use this method and apply to classifying cats and dogs.
 
 ![](model_explain.gif)
